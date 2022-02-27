@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>Atualmente estou cursando Análise e Desenvolvimento desistemas na Fatec Lins - Professor Antonio Seabra</p>
-<p>  Formado na Etec Cafêlandia - Sp, Helcy Moreira Martins Aguiar em Técnico em Informática e Técnico em Desenvimento de Sistemas </p>          
+ -Técnico em Informática - 2018 - Etec Cafêlandia Helcy Moreira Martins Aguiar;
+ -T écinico em Desenvolvimento de Sistemas - 2020 - Etec Cafêlandia Helcy Moreira Martins Aguiar;
