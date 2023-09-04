@@ -1,7 +1,9 @@
-Hey! Sou Vitor Martins, um apaixonado desenvolvedor front-end que adora criar experiências web incríveis. Meu foco principal está em HTML, CSS e JavaScript, mas estou sempre explorando novas tecnologias e frameworks.
+### Hey! Sou Vitor Martins
 
-- 🎓 Último semestre em Análise e Desenvolvimento de Sistemas na Fatec Lins.
-- 📚 Formação em Técnico em Informática (2019) e Técnico em Desenvolvimento de Sistemas (2020) pela Etec Cafêlandia.
+<i>Um apaixonado desenvolvedor front-end que adora criar experiências web incríveis. Meu foco principal está em HTML, CSS e JavaScript, mas estou sempre explorando novas tecnologias e frameworks.</i>
+
+- 🎓 Último semestre em Análise e Desenvolvimento de Sistemas na Fatec Lins - Professor Antonio Seabra.
+- 📚 Formação em Técnico em Informática (2019) e Técnico em Desenvolvimento de Sistemas (2020) pela Etec Cafelândia - Profª Helcy Moreira Martins Aguiar.
 
 
 <div>
@@ -29,5 +31,6 @@ Hey! Sou Vitor Martins, um apaixonado desenvolvedor front-end que adora criar ex
 <a href="https://www.linkedin.com/in/v%C3%ADtor-martins-21108618b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/VitorMartins28/VitorMartins28/blob/output/github-contribution-grid-snake.svg)
 
