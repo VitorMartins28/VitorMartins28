@@ -2,7 +2,7 @@
 
 <i>Um desenvolvedor front-end que adora criar experiências web incríveis. Meu foco principal está em HTML, CSS e JavaScript, mas estou sempre explorando novas tecnologias e frameworks.</i>
 
-- 🎓 Último semestre em Análise e Desenvolvimento de Sistemas na Fatec Lins - Professor Antonio Seabra.
+- 🎓 Análise e Desenvolvimento de Sistemas na Fatec Lins - Professor Antonio Seabra (2023).
 - 📚 Formação em Técnico em Informática (2019) e Técnico em Desenvolvimento de Sistemas (2020) pela Etec Cafelândia - Profª Helcy Moreira Martins Aguiar.
 
 
