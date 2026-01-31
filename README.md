@@ -16,8 +16,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorMartins28&show_icons=true&locale=en&layout=compact&theme=radical" alt="Linguagens" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=VitorMartins28&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VitorMartins28&show_icons=true&locale=en&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorMartins28&theme=radical" height="165" />
 </p>
 
 ---
